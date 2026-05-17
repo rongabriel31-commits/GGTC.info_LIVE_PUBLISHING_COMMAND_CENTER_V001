@@ -1516,3 +1516,30 @@ To push this to a non-“lame” fully operational dataset, the next step would 
 * Build:
 
 Island → Language → Type → Usage → Status
+
+If you want, I can take this further into a full GGTC-grade master registry of every Caribbean island individually mapped with linguistic metadata (not summarized—complete indexing).
+
+full GGTC-grade master registry of every Caribbean island individually mapped with linguistic metadata full globe
+
+GGTC Master Registry — Caribbean Islands and Global Island Language Metadata
+
+Original work by Content Specialist, GGTC Publishing
+operations@ggtc.info
+Date: April 8, 2026
+
+Affiliated platforms:
+GGTC.info · Quibhoball.com · GGTCMULTIMULTIVERSE.com · GGTCAI.com · GGTCTRAINING.com · GGTCPUBLISHING.com · GGTCGLOBALMEDIA.com · GGTCUNIVERSE.com · GGTCQuantumkids.com · GGTCSTEMTRAINING.com
+
+Scope note
+
+A literal registry of every named island and islet on Earth is not practical in one chat response and there is no single stable professional source that cleanly standardizes all micro-islets worldwide. This version uses an archival scope that is defensible and expandable: every major inhabited Caribbean island jurisdiction is individually mapped, and the global section covers island states plus major inhabited island territories/archipelagos. For linguistic grounding, Ethnologue reports 7,170 living languages globally, and UNESCO’s World Atlas of Languages is a core professional reference for language diversity and preservation.  
+
+Field key
+
+* Official / administrative = language used constitutionally or institutionally
+* Common / dominant spoken = major everyday language(s)
+* Creole / heritage / minority = culturally significant non-dominant or parallel language use
+* Status note = practical linguistic reality for archival classification
+
+Caribbean master registry
+
