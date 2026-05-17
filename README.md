@@ -3074,5 +3074,99 @@ Cultural retention
 
 Fiji Sub-Islands
 
+Island
+
+Languages
+
+Note
+
+Viti Levu
+
+English / Fijian / Hindi
+
+Core island
+
+Vanua Levu
+
+Same
+
+Secondary major
+
+Taveuni
+
+Same
+
+Agricultural hub
+
+Kadavu
+
+Fijian dominant
+
+Less urban
+
+Papua New Guinea (Sample High-Density Expansion)
+
+Island
+
+Languages
+
+Note
+
+New Guinea (east)
+
+Tok Pisin / English / 800+ local
+
+Extreme diversity
+
+New Britain
+
+Tok Pisin + local
+
+Regional
+
+New Ireland
+
+Tok Pisin + local
+
+Regional
+
+Bougainville
+
+Tok Pisin + local
+
+Political distinction
+
+Micronesia Detailed
+
+Island
+
+Languages
+
+Note
+
+Chuuk
+
+Chuukese / English
+
+Core FSM state
+
+Pohnpei
+
+Pohnpeian / English
+
+Administrative
+
+Yap
+
+Yapese / English
+
+Traditional system
+
+Kosrae
+
+Kosraean
+
+Small population
+
 
 
