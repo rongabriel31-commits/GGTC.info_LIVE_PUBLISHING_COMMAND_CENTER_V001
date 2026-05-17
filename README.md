@@ -1101,3 +1101,418 @@ Region
  │    │    ├── Speaker Base
  │    │    └── Status
 
+Expansion Pathways
+
+* Add ISO language codes (ISO 639-3)
+* Add speaker population data
+* Add digital usage metrics
+* Add education/official status layers
+
+⸻
+
+12. SOURCES (PROFESSIONAL / EDUCATIONAL ONLY)
+
+* SIL International – Ethnologue
+    https://www.sil.org
+* Glottolog (Max Planck Institute for Evolutionary Anthropology)
+    https://glottolog.org
+* National Geographic – Language Diversity Index
+    https://education.nationalgeographic.org
+* Our World in Data – Language datasets
+    https://ourworldindata.org
+
+⸻
+
+NEXT EXPANSION OPTIONS (RECOMMENDED)
+
+If you are building this into a GGTC archival system, the next logical expansions are:
+
+1. Full database version (CSV / JSON)
+2. ISO-coded master language registry
+3. Language → country mapping layer
+4. Digital presence / internet usage by language
+5. Endangerment classification layer (UNESCO scale)
+
+⸻
+
+If you want, I can convert this into a GGTC_MASTER_ASSET_TREE-aligned canonical dataset with strict field definitions and no inference beyond sourced data.
+
+Caribbean island and global islands this is a lame list 
+
+Understood. The previous version was still high-level. Below is a denser, regionally accurate expansion focused specifically on Caribbean islands and global island systems, with greater granularity, linguistic diversity, and local relevance.
+
+⸻
+
+Caribbean & Global Island Language Systems (Expanded Dataset)
+
+Original Work by Content Specialist, GGTC Publishing
+operations@ggtc.info
+
+Date: April 8, 2026
+
+⸻
+
+1. CARIBBEAN ISLANDS (DETAILED BY TERRITORY)
+
+Greater Antilles
+
+Cuba
+
+* Spanish (official)
+* Haitian Creole (minority communities)
+
+Dominican Republic
+
+* Spanish (official)
+* Haitian Creole (border regions, migrant communities)
+
+Haiti
+
+* Haitian Creole (primary)
+* French (official, administrative)
+
+Jamaica
+
+* English (official)
+* Jamaican Patois (English-based creole; dominant spoken language)
+
+Puerto Rico
+
+* Spanish (primary)
+* English (co-official)
+
+⸻
+
+Lesser Antilles
+
+Anguilla
+
+* English
+* Anguillan Creole English
+
+Antigua and Barbuda
+
+* English
+* Antiguan Creole
+
+Barbados
+
+* English
+* Bajan Creole
+
+Dominica
+
+* English
+* Dominican Creole French (Kwéyòl)
+* Kalinago language (Carib; endangered)
+
+Grenada
+
+* English
+* Grenadian Creole English
+* Grenadian Creole French
+
+Saint Lucia
+
+* English (official)
+* Saint Lucian Creole French (Kwéyòl; widely spoken)
+
+Saint Vincent and the Grenadines
+
+* English
+* Vincentian Creole
+
+Trinidad and Tobago
+
+* English (official)
+* Trinidadian Creole English
+* Trinidadian Hindustani (historical/community use)
+* Tobagonian Creole
+
+⸻
+
+Leeward Islands (Extended)
+
+Saint Kitts and Nevis
+
+* English
+* Kittitian/Nevisian Creole
+
+Montserrat
+
+* English
+* Montserrat Creole English
+* Irish lexical remnants (historical influence)
+
+⸻
+
+Windward Islands (Extended)
+
+Martinique (France)
+
+* French (official)
+* Martinican Creole French
+
+Guadeloupe (France)
+
+* French
+* Guadeloupean Creole French
+
+⸻
+
+ABC Islands (Netherlands Caribbean)
+
+Aruba
+
+* Dutch (official)
+* Papiamento (primary spoken language)
+* Spanish
+* English
+
+Curaçao
+
+* Dutch
+* Papiamento
+* Spanish
+* English
+
+Bonaire
+
+* Dutch
+* Papiamento
+
+⸻
+
+Other Caribbean Territories
+
+Bahamas
+
+* English
+* Bahamian Creole
+
+Bermuda
+
+* English
+* Bermudian English dialect
+
+Cayman Islands
+
+* English
+* Cayman Creole
+
+Turks and Caicos
+
+* English
+* Turks & Caicos Creole
+
+U.S. Virgin Islands
+
+* English
+* Virgin Islands Creole English
+* Spanish (growing usage)
+
+British Virgin Islands
+
+* English
+* Virgin Islands Creole
+
+Saint Martin / Sint Maarten
+
+* French (Saint Martin)
+* Dutch (Sint Maarten)
+* English (widely used)
+* Creole varieties
+
+⸻
+
+2. CARIBBEAN LANGUAGE STRUCTURE (ANALYTICAL)
+
+Dominant Systems
+
+* European colonial languages: English, Spanish, French, Dutch
+* Creole languages (primary reality):
+    * English-based creoles
+    * French-based creoles
+    * Mixed systems (e.g., Papiamento)
+
+Key Observation
+
+In many Caribbean islands:
+
+* Creole is the primary spoken language
+* Colonial language is administrative/formal
+
+⸻
+
+3. GLOBAL ISLAND LANGUAGE SYSTEMS
+
+PACIFIC ISLANDS
+
+Hawaii (USA)
+
+* English
+* Hawaiian (revitalized Polynesian language)
+
+New Zealand
+
+* English
+* Māori (official)
+
+Fiji
+
+* English
+* Fijian
+* Fiji Hindi
+
+Samoa
+
+* Samoan
+* English
+
+Tonga
+
+* Tongan
+* English
+
+Tahiti (French Polynesia)
+
+* French
+* Tahitian
+
+Papua New Guinea (critical case)
+
+* Tok Pisin (lingua franca)
+* Hiri Motu
+* English
+* 800+ indigenous languages (highest linguistic density globally)
+
+⸻
+
+INDIAN OCEAN ISLANDS
+
+Madagascar
+
+* Malagasy
+* French
+
+Mauritius
+
+* English (official)
+* French (widely used)
+* Mauritian Creole (dominant spoken language)
+
+Seychelles
+
+* Seychellois Creole (primary)
+* English
+* French
+
+Maldives
+
+* Dhivehi
+
+Sri Lanka
+
+* Sinhala
+* Tamil
+* English (link language)
+
+⸻
+
+ATLANTIC ISLANDS (OUTSIDE CARIBBEAN)
+
+Iceland
+
+* Icelandic
+
+Azores (Portugal)
+
+* Portuguese
+
+Canary Islands (Spain)
+
+* Spanish
+* Canary dialects
+
+Cape Verde
+
+* Portuguese
+* Cape Verdean Creole (primary spoken)
+
+⸻
+
+INDONESIAN & ARCHIPELAGO SYSTEMS
+
+Indonesia (17,000+ islands)
+
+* Indonesian (Bahasa Indonesia)
+* Javanese
+* Sundanese
+* Balinese
+* Hundreds of regional languages
+
+Philippines
+
+* Filipino (Tagalog-based)
+* English
+* Cebuano
+* Ilocano
+* Hiligaynon
+
+⸻
+
+4. STRUCTURAL PATTERNS ACROSS ISLAND SYSTEMS
+
+Pattern 1: Colonial Overlay
+
+* Administrative language ≠ everyday language
+
+Pattern 2: Creole Dominance
+
+* Caribbean, Indian Ocean, Atlantic islands show strong creole systems
+
+Pattern 3: High Diversity (Archipelagos)
+
+* Papua New Guinea, Indonesia, Philippines
+
+Pattern 4: Language Preservation vs Loss
+
+* Hawaiian, Māori = revitalization models
+* Many island languages remain endangered
+
+⸻
+
+5. DATA SOURCES (NON-WIKI, PROFESSIONAL)
+
+* SIL International – Ethnologue
+* Glottolog (Max Planck Institute)
+* UNESCO Atlas of the World’s Languages
+* National Geographic Language Diversity Index
+* Cambridge University Press – Creole Studies
+* Oxford Handbook of World Languages
+
+⸻
+
+6. ARCHIVAL NOTE (GGTC SYSTEM ALIGNMENT)
+
+This dataset supports:
+
+* Island-based linguistic mapping
+* Creole classification systems
+* Colonial vs native language overlays
+* Expansion into governance / education / communication systems
+
+⸻
+
+OPTIONAL NEXT BUILD (RECOMMENDED)
+
+To push this to a non-“lame” fully operational dataset, the next step would be:
+
+* Add per-island structured fields:
+    * ISO codes
+    * Speaker counts
+    * Language status (official / dominant / endangered)
+    * Education language vs home language
+* Build:
+
+Island → Language → Type → Usage → Status
