@@ -1881,7 +1881,176 @@ Across the West Indies, the dominant pattern is not “one island = one language
 
 II. Global island registry — principal island states and major island systems
 
+Region
 
+Island state / territory / archipelago
+
+Official / administrative language(s)
+
+Common / dominant spoken language(s)
+
+Metadata note
+
+Sources
+
+North Atlantic
+
+Iceland
+
+Icelandic
+
+Icelandic
+
+National language of Iceland; strong preservation model
+
+Indian Ocean
+
+Madagascar
+
+Malagasy (official historically and nationally central); French also widely used institutionally
+
+Malagasy
+
+Malagasy is the island’s core linguistic system
+
+Mauritius
+
+English in official/state use; French widely used
+
+Mauritian Creole lingua franca
+
+Strong split between official/institutional and common spoken practice
+
+Seychelles
+
+Creole, English, French recognized nationally
+
+Seychellois Creole
+
+Creole is mother tongue for most Seychellois
+
+Maldives
+
+Dhivehi
+
+Dhivehi
+
+Arabic, Hindi, and English also commonly spoken
+
+South Asia island system
+
+Sri Lanka
+
+Sinhala and Tamil are the island’s major national languages; English functions as a link language in practice
+
+Sinhala, Tamil
+
+Large island state with dual-major-language structure
+
+General professional background; not newly sourced here
+
+South Pacific / Polynesia
+
+Samoa
+
+Samoan; English used constitutionally as required
+
+Samoan
+
+Polynesian-language dominant island state
+
+Tonga
+
+Tongan, English
+
+Tongan
+
+Polynesian monarchy with Tongan central in national identity
+
+Melanesia
+
+Fiji
+
+English, Fijian, Fiji Hindi given equal official status in the 1997 constitution
+
+Multilingual: English, Fijian, Fiji Hindi
+
+Archipelagic multilingual state
+
+Vanuatu
+
+Bislama, English, French
+
+Bislama widely central
+
+Classic creole-plus-colonial-language island model
+
+Papua New Guinea
+
+English, Tok Pisin, Hiri Motu
+
+Tok Pisin widely dominant in everyday intergroup use
+
+One of the world’s highest language-density island states
+
+Pacific cultural note
+
+Hawaiian Islands (U.S.)
+
+English dominant institutionally; Hawaiian has recognized revitalization importance
+
+English; Hawaiian revitalized
+
+Important indigenous-language recovery case
+
+Dutch Caribbean / Atlantic linkage
+
+ABC islands model
+
+Dutch + Papiamentu system in Aruba/Curaçao, Dutch-administered system in Bonaire
+
+Papiamentu central
+
+Important global creole case beyond standard English/French/Spanish templates
+
+Global structural note
+
+Island language systems repeatedly show three patterns:
+
+1. Colonial-administrative overlay: one language dominates government while another dominates daily life, as in Mauritius and much of the Caribbean.  
+2. Creole centrality: Papiamentu, Haitian Creole, Jamaican Creole, Seychellois Creole, Bislama, Tok Pisin, and Mauritian Creole are not marginal curiosities; in several island systems they are core social languages.  
+3. Preservation pressure and language endangerment: UNESCO’s World Atlas of Languages exists specifically because many languages, including island languages, face vitality and transmission risks.  
+
+⸻
+
+III. GGTC archival classification model
+
+For your archive library, this is the cleaner schema:
+
+Region
+  → Island / Jurisdiction
+    → Political Status
+    → Official / Administrative Language(s)
+    → Dominant Spoken Language(s)
+    → Creole / Heritage / Minority Layer
+    → Language Family / Type
+    → Status Note
+    → Source Authority
+    → Archive Date
+
+IV. Recommended authority stack for this registry
+
+For this project, the strongest non-Wikipedia reference stack is:
+
+* Ethnologue / SIL Global for global language existence and classification counts.  
+* UNESCO World Atlas of Languages for preservation, diversity, and vulnerability framing.  
+* Encyclopaedia Britannica for island-by-island country and territory language profiles.  
+
+V. Precision note
+
+This is now materially stronger than the earlier outline, but it is still not yet a planet-scale gazetteer of every named island and islet. To reach true GGTC-grade master-registry depth, the next step is not more prose; it is a structured table file with one row per island/jurisdiction and fixed fields.
+
+I can turn this into a CSV, XLSX, or DOCX archival master record next.
 
 
 
