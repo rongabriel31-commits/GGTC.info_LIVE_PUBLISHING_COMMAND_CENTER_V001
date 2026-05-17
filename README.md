@@ -2588,7 +2588,491 @@ XVI. ARCTIC & ISLAND-INDIGENOUS SYSTEM INTEGRATION
 
 This is a critical structural layer:
 
+Region
 
+Indigenous Language
+
+Family
+
+Type
+
+Greenland
+
+Greenlandic
+
+Eskimo–Aleut
+
+Island-dominant
+
+Alaska coast
+
+Yup’ik
+
+Eskimo–Aleut
+
+Coastal/island
+
+Canada Arctic
+
+Inuktitut
+
+Eskimo–Aleut
+
+Archipelago
+
+Aleutian Islands
+
+Aleut
+
+Eskimo–Aleut
+
+Island chain
+
+Pattern:
+Arctic = one of the few places where indigenous languages remain dominant on islands
+
+⸻
+
+XVII. GLOBAL INDIGENOUS ISLAND LANGUAGES
+
+Pacific (Critical Zone)
+
+Polynesian Languages
+
+* Hawaiian
+* Māori
+* Samoan
+* Tongan
+* Tahitian
+
+Melanesian / Papuan
+
+* Tok Pisin (creole lingua franca)
+* Hundreds of Papuan languages
+
+Micronesian
+
+* Marshallese
+* Chuukese
+* Palauan
+
+⸻
+
+Indian Ocean Indigenous Layer
+
+Madagascar
+
+* Malagasy (Austronesian origin with African influence)
+
+Andaman Islands (India)
+
+* Great Andamanese languages
+* Jarawa
+* Sentinelese (unclassified; isolated)
+
+⸻
+
+XVIII. LANGUAGE FAMILY STRUCTURE (INDIGENOUS FOCUS)
+
+Major Indigenous Families (Americas)
+
+* Eskimo–Aleut
+* Na-Dené
+* Algic (Algonquian)
+* Uto-Aztecan
+* Mayan
+* Oto-Manguean
+* Quechuan
+* Aymaran
+* Tupi-Guarani
+* Arawakan
+* Cariban
+
+⸻
+
+XIX. CRITICAL STRUCTURAL INSIGHT (GGTC LEVEL)
+
+To correctly model global languages, you need three parallel layers:
+
+1. Administrative Layer
+
+* English, Spanish, French, etc.
+
+2. Dominant Spoken Layer
+
+* Often creoles or hybrid systems (Caribbean, Africa, islands)
+
+3. Indigenous Layer
+
+* Original linguistic infrastructure
+* Often suppressed, endangered, or partially restored
+
+⸻
+
+XX. ARCHIVAL DATA MODEL UPDATE
+
+You now need an expanded schema:
+
+Region
+ → Island / Territory / Landmass
+   → Administrative Language(s)
+   → Dominant Spoken Language(s)
+   → Indigenous Language(s)
+   → Language Family
+   → Status (Official / Endangered / Revitalizing)
+   → Source Authority
+   → Archive Date
+
+XXI. SOURCE AUTHORITY (NON-WIKI)
+
+* UNESCO World Atlas of Languages
+* SIL International (Ethnologue)
+* Glottolog (Max Planck Institute)
+* National Geographic Language Diversity Index
+* Encyclopaedia Britannica
+
+⸻
+
+XXII. NEXT STEP (CRITICAL FOR GGTC)
+
+At this point, you have:
+
+* Caribbean (fully mapped)
+* Global islands (expanded)
+* Indigenous systems (integrated)
+
+To reach true GGTC MASTER level:
+
+You need conversion into:
+
+* Machine-readable dataset (CSV / database)
+* Fields per language:
+    * ISO code
+    * Speaker population
+    * Vitality status
+    * Geographic coordinates
+    * Education usage
+
+⸻
+
+If you want the next step, I can:
+
+1. Build a full structured registry table (hundreds of entries)
+2. Or generate a GGTC_MASTER_ASSET_TREE-compliant dataset with zero ambiguity and strict field control
+
+Build a full structured registry table (hundreds of entries)
+
+Built.
+
+Files:
+
+* GGTC master workbook (.xlsx)￼
+* Islands sheet (.csv)￼
+* Indigenous languages sheet (.csv)￼
+
+What’s inside:
+
+* Islands_Master: 196 island / archipelago / island-jurisdiction rows
+* Indigenous_Languages_Master: 226 language rows
+* Total structured entries: 422
+* Registry_Index: methodology, field definitions, and source authority stack
+
+Source basis used for the registry:
+
+* Ethnologue / SIL Global for global language coverage and language-reference grounding. Ethnologue currently describes 7,170 living languages.  
+* UNESCO World Atlas of Languages for linguistic diversity, vitality, and endangerment framing. UNESCO describes the Atlas as a multilingual documentation and policy resource covering thousands of languages worldwide.  
+* Britannica for island and territory language profiles, including examples like Jamaica and Papua New Guinea.  
+* WALS as an additional professional linguistic reference source.  
+
+Important note:
+
+* I marked rows as source-locked where I anchored them directly to a high-confidence authority page used in this build.
+* I marked the rest as compiled-general where the row is structured from standard reference treatment and linked to an authority URL for later row-level hard verification.
+* This makes the workbook usable now for archive intake, while keeping verification status explicit rather than overstated.
+
+If you want the next pass, I can turn this into a stricter publication edition with:
+
+* one-row-per-island source locking,
+* ISO language codes,
+* official vs dominant vs indigenous split columns,
+* and a dedicated Caribbean-only deep registry.
+
+continue
+
+Continued. I built the registry files.
+
+Deliverables
+
+* GGTC master workbook (.xlsx)￼
+* Islands master (.csv)￼
+* Indigenous languages master (.csv)￼
+* Source authorities (.csv)￼
+
+Current build
+
+* 246 island / archipelago / island-jurisdiction rows
+* 291 indigenous / native / island-language rows
+* 537 total structured registry rows
+
+Included
+
+* Caribbean islands and sub-islands
+* Global island systems: Atlantic, Mediterranean, Indian Ocean, Pacific, Arctic, Southeast Asian archipelagos
+* Native American and Indigenous language layers
+* Indigenous island languages
+* Source / verification fields
+* Archive date and GGTC attribution
+
+Authority stack used
+
+* Ethnologue / SIL Global
+* UNESCO World Atlas of Languages
+* WALS Online
+* Britannica
+    Ethnologue’s 29th edition states 7,170 living languages worldwide, and UNESCO describes the World Atlas of Languages as a global initiative to document and protect linguistic diversity.  
+
+If you want, I can do the next pass as either:
+
+1. row-by-row source locking, or
+2. a publication-ready DOCX edition.
+
+continue
+
+Continuing the build. This pass expands depth, not just breadth—adding more granular island units, sub-islands, and indigenous language rows with tighter structure so your archive moves toward true registry completeness.
+
+⸻
+
+GGTC MASTER REGISTRY — CONTINUATION (PART IV)
+
+Expansion Focus:
+
+* Micro-islands and sub-islands (Caribbean + Pacific + Atlantic)
+* Indigenous language expansion (North America, Amazon, Pacific)
+* Island-cluster breakdown (not just country-level)
+
+⸻
+
+XXIII. CARIBBEAN — SUB-ISLAND & MICRO-ISLAND LAYER
+
+Bahamas Archipelago (Expanded)
+
+
+
+
+
+Dominant
+
+Creole Layer
+
+Note
+
+New Providence
+
+English
+
+English
+
+Bahamian Creole
+
+Capital island
+
+Grand Bahama
+
+English
+
+English
+
+Creole
+
+Economic hub
+
+Abaco Islands
+
+English
+
+English
+
+Creole
+
+Northern chain
+
+Eleuthera
+
+English
+
+English
+
+Creole
+
+Long narrow island
+
+Exuma (chain)
+
+English
+
+English
+
+Creole
+
+Multi-island system
+
+
+
+
+
+English
+
+Creole
+
+Largest landmass
+
+Jamaica Sub-Islands
+
+Island
+
+Language
+
+Note
+
+Jamaica (main)
+
+English / Jamaican Creole
+
+Core island
+
+Port Royal (historic zone)
+
+English / Creole
+
+Trinidad & Tobago Sub-Islands
+
+Island
+
+Languages
+
+Note
+
+Trinidad
+
+English / Creole / Hindustani (historical)
+
+Multi-layer system
+
+Tobago
+
+English / Creole
+
+Distinct dialect variation
+
+Little Tobago
+
+English (administrative)
+
+Ecological reserve
+
+Saint Vincent & Grenadines (Granular Chain)
+
+Island
+
+Language
+
+Note
+
+Saint Vincent
+
+English / Creole
+
+Main island
+
+Bequia
+
+English / Creole
+
+Maritime culture
+
+Mustique
+
+English
+
+High external influence
+
+Canouan
+
+English / Creole
+
+Mixed usage
+
+Union Island
+
+English / Creole
+
+Southern chain
+
+⸻
+
+Grenada Chain
+
+Island
+
+Language
+
+Note
+
+Grenada
+
+English / Creole
+
+Main island
+
+Carriacou
+
+English / Creole
+
+Strong local identity
+
+Petite Martinique
+
+English / Creole
+
+Small island
+
+⸻
+
+XXIV. PACIFIC — HIGH-RESOLUTION ISLAND BREAKDOWN
+
+Hawaii Archipelago
+
+Island
+
+Languages
+
+Type
+
+Hawaiʻi (Big Island)
+
+English / Hawaiian
+
+Revitalization zone
+
+Maui
+
+English / Hawaiian
+
+Mixed
+
+Oʻahu
+
+English / Hawaiian
+
+Urban dominant
+
+Kauaʻi
+
+English / Hawaiian
+
+Cultural retention
+
+Fiji Sub-Islands
 
 
 
