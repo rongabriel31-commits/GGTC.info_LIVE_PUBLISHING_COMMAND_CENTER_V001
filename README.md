@@ -3871,7 +3871,7 @@ UNESCO Indigenous Languages Initiative
 
 * Scope: Indigenous language preservation
 * Reference:
-    * https://www.unesco.org/en/indigenous-languages
+    * https://www.unesco.org/en
 
 ⸻
 
